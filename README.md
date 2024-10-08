@@ -60,5 +60,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ### Contact
 For any questions or issues, please reach out to us at:
-- Email: your-email@example.com
+- Email: adnanhashmi323@gmail.com
 - GitHub Issues: [AutoBill Issue Tracker](https://github.com/adnano1/AutoBill/issues)
