@@ -1,0 +1,1 @@
+This is the pre-trained product detection model. You would place your model file here. For this example, the file is named product_detection_model.pb, but you need to train or download an appropriate model for detecting products in the retail store.
